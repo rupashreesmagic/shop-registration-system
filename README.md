@@ -1,7 +1,3 @@
-Navigation Menu
-
-
-
 
 **Shop Registration and Search API**
 The Shop Registration and Search API is a Django-based RESTful web service that allows users to register shops and search for them based on geographical location. Users can input their latitude and longitude to retrieve a list of registered shops sorted by their proximity to the user's location, calculated using the Haversine formula.
