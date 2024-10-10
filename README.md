@@ -107,7 +107,6 @@ json
 
 
 
-For any inquiries, please reach out to:
-
-Your Name: Rupashree Roy
+For any inquiries, please reach out ,
+Name: Rupashree Roy
 Email:rupashreeroy2000@gmail.com
